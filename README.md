@@ -6,6 +6,9 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [Refresh snap for CorsixTH 0.69.2](https://github.com/snapcrafters/corsixth/pull/20) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (today)
+- [Fix core24 runtime library packaging and add smoke-test workflow](https://github.com/snapcrafters/xonotic/pull/23) on [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (today)
+- [Fix core24 lib install and add smoke-test workflow](https://github.com/minnielove2026/xonotic/pull/1) on [minnielove2026/xonotic](https://github.com/minnielove2026/xonotic) (today)
 - [fix: restrict to amd64 - gnome-46-2404-sdk not available on ppc64el](https://github.com/popey/spectrum-analyser-snap/pull/3) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
 - [fix: add gnome-46-2404-sdk to build-snaps for Launchpad](https://github.com/popey/spectrum-analyser-snap/pull/2) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
 - [Build from current upstream; add CI workflow](https://github.com/popey/spectrum-analyser-snap/pull/1) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
@@ -13,9 +16,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Add Snap Updates project](https://github.com/popey/popey.me/pull/1) on [popey/popey.me](https://github.com/popey/popey.me) (2 days ago)
 - [Handle missing argument after -o flag gracefully](https://github.com/popey/grype2html/pull/3) on [popey/grype2html](https://github.com/popey/grype2html) (2 days ago)
 - [Modernise: core24, improve daemon config, better docs](https://github.com/popey/matterbridge-snap/pull/4) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (5 days ago)
-- [Add snap configuration for port and userpass](https://github.com/popey/ladder-snap/pull/4) on [popey/ladder-snap](https://github.com/popey/ladder-snap) (5 days ago)
-- [Add smoke test: launch snap in VM and capture screenshot](https://github.com/popey/libation-snap/pull/8) on [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago)
-- [Add smoke test: launch snap in VM and capture screenshot](https://github.com/popey/fab-agon-emulator-snap/pull/9) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago)
 
 ## Recent contributions
 

@@ -6,21 +6,21 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Refresh piqueserver snap for core24](https://github.com/popey/piqueserver-snap/pull/1) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today)
-- [Refresh OpenToonz snap to 1.7.1 on core24](https://github.com/snapcrafters/opentoonz/pull/17) on [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (1 day ago)
-- [Add branch smoke test workflow for get-iplayer](https://github.com/snapcrafters/get-iplayer/pull/17) on [snapcrafters/get-iplayer](https://github.com/snapcrafters/get-iplayer) (1 day ago)
-- [Add GUI smoke test workflow](https://github.com/snapcrafters/corsixth/pull/21) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (1 day ago)
-- [Refresh Android Studio stable packaging and updater](https://github.com/snapcrafters/android-studio/pull/176) on [snapcrafters/android-studio](https://github.com/snapcrafters/android-studio) (1 day ago)
-- [Refresh snap for CorsixTH 0.69.2](https://github.com/snapcrafters/corsixth/pull/20) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (2 days ago)
-- [Fix core24 runtime library packaging and add smoke-test workflow](https://github.com/snapcrafters/xonotic/pull/23) on [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (2 days ago)
-- [Fix core24 lib install and add smoke-test workflow](https://github.com/minnielove2026/xonotic/pull/1) on [minnielove2026/xonotic](https://github.com/minnielove2026/xonotic) (2 days ago)
-- [fix: restrict to amd64 - gnome-46-2404-sdk not available on ppc64el](https://github.com/popey/spectrum-analyser-snap/pull/3) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [fix: add gnome-46-2404-sdk to build-snaps for Launchpad](https://github.com/popey/spectrum-analyser-snap/pull/2) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [Add README and screenshot smoke-test workflow](https://github.com/snapcrafters/dosbox-x/pull/42) on [snapcrafters/dosbox-x](https://github.com/snapcrafters/dosbox-x) (1 day ago)
+- [Refresh piqueserver snap for core24](https://github.com/popey/piqueserver-snap/pull/1) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago)
+- [Refresh OpenToonz snap to 1.7.1 on core24](https://github.com/snapcrafters/opentoonz/pull/17) on [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (2 days ago)
+- [Add branch smoke test workflow for get-iplayer](https://github.com/snapcrafters/get-iplayer/pull/17) on [snapcrafters/get-iplayer](https://github.com/snapcrafters/get-iplayer) (2 days ago)
+- [Add GUI smoke test workflow](https://github.com/snapcrafters/corsixth/pull/21) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (2 days ago)
+- [Refresh Android Studio stable packaging and updater](https://github.com/snapcrafters/android-studio/pull/176) on [snapcrafters/android-studio](https://github.com/snapcrafters/android-studio) (2 days ago)
+- [Refresh snap for CorsixTH 0.69.2](https://github.com/snapcrafters/corsixth/pull/20) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (3 days ago)
+- [Fix core24 runtime library packaging and add smoke-test workflow](https://github.com/snapcrafters/xonotic/pull/23) on [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (3 days ago)
+- [Fix core24 lib install and add smoke-test workflow](https://github.com/minnielove2026/xonotic/pull/1) on [minnielove2026/xonotic](https://github.com/minnielove2026/xonotic) (3 days ago)
+- [fix: restrict to amd64 - gnome-46-2404-sdk not available on ppc64el](https://github.com/popey/spectrum-analyser-snap/pull/3) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 
 ## Recent contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 week ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 week ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 week ago) — Snap package for Pioneer, a game of lonely space adventure

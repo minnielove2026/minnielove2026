@@ -6,6 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [ci: refresh actions for Node 24 runtime](https://github.com/popey/mindustry-snap/pull/6) on [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (today)
 - [Add README and screenshot smoke-test workflow](https://github.com/snapcrafters/dosbox-x/pull/42) on [snapcrafters/dosbox-x](https://github.com/snapcrafters/dosbox-x) (1 day ago)
 - [Refresh piqueserver snap for core24](https://github.com/popey/piqueserver-snap/pull/1) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago)
 - [Refresh OpenToonz snap to 1.7.1 on core24](https://github.com/snapcrafters/opentoonz/pull/17) on [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (2 days ago)
@@ -15,7 +16,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Refresh snap for CorsixTH 0.69.2](https://github.com/snapcrafters/corsixth/pull/20) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (3 days ago)
 - [Fix core24 runtime library packaging and add smoke-test workflow](https://github.com/snapcrafters/xonotic/pull/23) on [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (3 days ago)
 - [Fix core24 lib install and add smoke-test workflow](https://github.com/minnielove2026/xonotic/pull/1) on [minnielove2026/xonotic](https://github.com/minnielove2026/xonotic) (3 days ago)
-- [fix: restrict to amd64 - gnome-46-2404-sdk not available on ppc64el](https://github.com/popey/spectrum-analyser-snap/pull/3) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 
 ## Recent contributions
 

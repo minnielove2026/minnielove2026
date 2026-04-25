@@ -6,6 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (today)
 - [ci: refresh actions for Node 24 runtime](https://github.com/popey/mindustry-snap/pull/6) on [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (3 days ago)
 - [Add README and screenshot smoke-test workflow](https://github.com/snapcrafters/dosbox-x/pull/42) on [snapcrafters/dosbox-x](https://github.com/snapcrafters/dosbox-x) (4 days ago)
 - [Refresh piqueserver snap for core24](https://github.com/popey/piqueserver-snap/pull/1) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago)
@@ -15,7 +16,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Refresh Android Studio stable packaging and updater](https://github.com/snapcrafters/android-studio/pull/176) on [snapcrafters/android-studio](https://github.com/snapcrafters/android-studio) (5 days ago)
 - [Refresh snap for CorsixTH 0.69.2](https://github.com/snapcrafters/corsixth/pull/20) on [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (6 days ago)
 - [Fix core24 runtime library packaging and add smoke-test workflow](https://github.com/snapcrafters/xonotic/pull/23) on [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (6 days ago)
-- [Fix core24 lib install and add smoke-test workflow](https://github.com/minnielove2026/xonotic/pull/1) on [minnielove2026/xonotic](https://github.com/minnielove2026/xonotic) (6 days ago)
 
 ## Recent contributions
 

@@ -20,15 +20,15 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 ## Recent contributions
 
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 day ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/grummage](https://github.com/popey/grummage) (2 days ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 week ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (2 weeks ago) — Snap package for Matterbridge, a multi-protocol chat bridge
-- [popey/b2-snap](https://github.com/popey/b2-snap) (2 weeks ago) — Snap package for b2, a BBC Micro emulator
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (2 weeks ago) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 weeks ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/mamesnap](https://github.com/popey/mamesnap) (2 weeks ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 weeks ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (2 weeks ago) — Snap package for Pioneer, a game of lonely space adventure
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

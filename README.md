@@ -6,11 +6,11 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Import working snap packaging and smoke-test CI](https://github.com/popey/zx-pokemaster-snap/pull/1) on [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (today)
-- [Fix v0.14 snap build with CMake](https://github.com/popey/notepadnext-snap/pull/7) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago)
-- [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago)
-- [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (4 days ago)
-- [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (6 days ago)
+- [Import working snap packaging and smoke-test CI](https://github.com/popey/zx-pokemaster-snap/pull/1) on [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 day ago)
+- [Fix v0.14 snap build with CMake](https://github.com/popey/notepadnext-snap/pull/7) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago)
+- [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago)
+- [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (5 days ago)
+- [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (1 week ago)
 - [ci: refresh actions for Node 24 runtime](https://github.com/popey/mindustry-snap/pull/6) on [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 week ago)
 - [Add README and screenshot smoke-test workflow](https://github.com/snapcrafters/dosbox-x/pull/42) on [snapcrafters/dosbox-x](https://github.com/snapcrafters/dosbox-x) (1 week ago)
 - [Refresh piqueserver snap for core24](https://github.com/popey/piqueserver-snap/pull/1) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 week ago)
@@ -19,10 +19,10 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent contributions
 
-- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (today)
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (today)
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/grummage](https://github.com/popey/grummage) (4 days ago) — Grummage is an interactive terminal frontend to Grype
+- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (1 day ago)
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 day ago)
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/grummage](https://github.com/popey/grummage) (5 days ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 week ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 weeks ago)

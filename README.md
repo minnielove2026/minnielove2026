@@ -6,6 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today)
 - [Update to 13.4.1](https://github.com/popey/libation-snap/pull/13) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago)
 - [Update to 13.4.0](https://github.com/popey/libation-snap/pull/12) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago)
 - [Update to 0.0.23 and add upstream sync](https://github.com/popey/ladder-snap/pull/5) on [popey/ladder-snap](https://github.com/popey/ladder-snap) (3 days ago)
@@ -15,7 +16,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago)
 - [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (1 week ago)
 - [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (1 week ago)
-- [ci: refresh actions for Node 24 runtime](https://github.com/popey/mindustry-snap/pull/6) on [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 weeks ago)
 
 ## Recent contributions
 

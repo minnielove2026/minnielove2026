@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago)
+- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago)
 - [Update to 13.4.1](https://github.com/popey/libation-snap/pull/13) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago)
 - [Update to 13.4.0](https://github.com/popey/libation-snap/pull/12) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago)
 - [Update to 0.0.23 and add upstream sync](https://github.com/popey/ladder-snap/pull/5) on [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago)
@@ -25,7 +25,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (1 week ago)
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (3 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 weeks ago)
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 weeks ago) — Snap package for Matterbridge, a multi-protocol chat bridge

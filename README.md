@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago)
+- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (6 days ago)
 - [Update to 13.4.1](https://github.com/popey/libation-snap/pull/13) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago)
 - [Update to 13.4.0](https://github.com/popey/libation-snap/pull/12) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago)
 - [Update to 0.0.23 and add upstream sync](https://github.com/popey/ladder-snap/pull/5) on [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago)
@@ -28,7 +28,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (3 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 weeks ago)
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 weeks ago) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 month ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

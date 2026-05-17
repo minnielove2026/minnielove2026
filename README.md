@@ -27,7 +27,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (3 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago) — Snap package for the Fab Agon Emulator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 weeks ago)
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 month ago)
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 month ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 
 ---

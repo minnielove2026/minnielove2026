@@ -14,7 +14,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Import working snap packaging and smoke-test CI](https://github.com/popey/zx-pokemaster-snap/pull/1) on [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (2 weeks ago)
 - [Fix v0.14 snap build with CMake](https://github.com/popey/notepadnext-snap/pull/7) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago)
 - [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago)
-- [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (2 weeks ago)
+- [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
 - [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (3 weeks ago)
 
 ## Recent contributions
@@ -24,7 +24,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (2 weeks ago)
 - [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (2 weeks ago)
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (3 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 month ago)

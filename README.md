@@ -6,12 +6,12 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 week ago)
+- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 weeks ago)
 - [Update to 13.4.1](https://github.com/popey/libation-snap/pull/13) on [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago)
 - [Update to 13.4.0](https://github.com/popey/libation-snap/pull/12) on [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago)
 - [Update to 0.0.23 and add upstream sync](https://github.com/popey/ladder-snap/pull/5) on [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 weeks ago)
 - [Warn when SKILL.md frontmatter is invalid](https://github.com/vercel-labs/skills/pull/1072) on [vercel-labs/skills](https://github.com/vercel-labs/skills) (2 weeks ago)
-- [Import working snap packaging and smoke-test CI](https://github.com/popey/zx-pokemaster-snap/pull/1) on [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (2 weeks ago)
+- [Import working snap packaging and smoke-test CI](https://github.com/popey/zx-pokemaster-snap/pull/1) on [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (3 weeks ago)
 - [Fix v0.14 snap build with CMake](https://github.com/popey/notepadnext-snap/pull/7) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 weeks ago)
 - [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 weeks ago)
 - [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
@@ -21,11 +21,11 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (2 weeks ago)
-- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (2 weeks ago)
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (3 weeks ago)
+- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (3 weeks ago)
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 weeks ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (4 weeks ago) — Snap package for Mindustry, a sandbox tower defense game
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 month ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 month ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 month ago)
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 month ago) — Snap package for Matterbridge, a multi-protocol chat bridge

@@ -15,7 +15,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Fix v0.14 snap build with CMake](https://github.com/popey/notepadnext-snap/pull/7) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 weeks ago)
 - [Add GUI smoke test workflow](https://github.com/popey/notepadnext-snap/pull/6) on [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 weeks ago)
 - [Harden Grype installation and fix runtime issues](https://github.com/popey/grummage/pull/39) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
-- [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (3 weeks ago)
+- [Refresh FlightGear snap to 2024.1.5 on core24](https://github.com/snapcrafters/flightgear/pull/15) on [snapcrafters/flightgear](https://github.com/snapcrafters/flightgear) (4 weeks ago)
 
 ## Recent contributions
 

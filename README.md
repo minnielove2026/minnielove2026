@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Fix MAME 0.288 build with Qt 6](https://github.com/popey/mamesnap/pull/14) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago)
+- [Fix MAME 0.288 build with Qt 6](https://github.com/popey/mamesnap/pull/14) on [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago)
 - [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 weeks ago)
 - [Update to 13.4.1](https://github.com/popey/libation-snap/pull/13) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 weeks ago)
 - [Update to 13.4.0](https://github.com/popey/libation-snap/pull/12) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 weeks ago)
@@ -19,7 +19,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent contributions
 
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (3 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 weeks ago) — Snap package for Libation, a tool to liberate your audio books
 - [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (1 month ago)

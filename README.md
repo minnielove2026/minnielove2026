@@ -6,6 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [Update Halloy to 2026.7.2](https://github.com/popey/halloy-snap/pull/21) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (today)
 - [Add initial lines option](https://github.com/popey/slomore/pull/18) on [popey/slomore](https://github.com/popey/slomore) (3 days ago)
 - [Refresh Repo Assist workflow lock](https://github.com/popey/grummage/pull/46) on [popey/grummage](https://github.com/popey/grummage) (4 days ago)
 - [Fix visible DMG background helper icons](https://github.com/wimpysworld/sidra/pull/115) on [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (4 days ago)
@@ -15,7 +16,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Fix Repo Assist scheduled PR check auth](https://github.com/popey/slomore/pull/12) on [popey/slomore](https://github.com/popey/slomore) (4 days ago)
 - [Fix Repo Assist scheduled PR check auth](https://github.com/popey/sbom-vm/pull/25) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (4 days ago)
 - [Fix MAME 0.288 build with Qt 6](https://github.com/popey/mamesnap/pull/14) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
-- [Add upstream version sync workflow](https://github.com/popey/piqueserver-snap/pull/2) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 month ago)
 
 ## Recent contributions
 

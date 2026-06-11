@@ -19,12 +19,12 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent contributions
 
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/grummage](https://github.com/popey/grummage) (6 days ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 month ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 month ago) — Snap package for Libation, a tool to liberate your audio books

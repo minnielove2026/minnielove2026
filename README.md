@@ -7,7 +7,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 ## Recent pull requests
 
 - [Update Halloy to 2026.7.2](https://github.com/popey/halloy-snap/pull/21) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago)
-- [Add initial lines option](https://github.com/popey/slomore/pull/18) on [popey/slomore](https://github.com/popey/slomore) (2 weeks ago)
+- [Add initial lines option](https://github.com/popey/slomore/pull/18) on [popey/slomore](https://github.com/popey/slomore) (3 weeks ago)
 - [Refresh Repo Assist workflow lock](https://github.com/popey/grummage/pull/46) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
 - [Fix visible DMG background helper icons](https://github.com/wimpysworld/sidra/pull/115) on [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (3 weeks ago)
 - [Fix Repo Assist auth and lock hash](https://github.com/popey/halloy-snap/pull/15) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
@@ -20,7 +20,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 ## Recent contributions
 
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
-- [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/snapupdates](https://github.com/popey/snapupdates) (3 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (3 weeks ago) — Emoji-only walking navigation app
 - [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.

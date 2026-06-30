@@ -21,9 +21,9 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago) — Snapcraft configuration for the halloy irc client
 - [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (3 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (3 weeks ago) — Emoji-only walking navigation app
-- [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 month ago) — Snap package for Ladder, a web proxy to help bypass paywalls

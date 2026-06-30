@@ -28,7 +28,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 month ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 month ago) — Snap package for Libation, a tool to liberate your audio books
-- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (1 month ago)
+- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (2 months ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

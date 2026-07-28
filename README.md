@@ -6,29 +6,16 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Update Halloy to 2026.7.2](https://github.com/popey/halloy-snap/pull/21) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago)
-- [Add initial lines option](https://github.com/popey/slomore/pull/18) on [popey/slomore](https://github.com/popey/slomore) (1 month ago)
-- [Refresh Repo Assist workflow lock](https://github.com/popey/grummage/pull/46) on [popey/grummage](https://github.com/popey/grummage) (1 month ago)
-- [Fix visible DMG background helper icons](https://github.com/wimpysworld/sidra/pull/115) on [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (1 month ago)
-- [Fix Repo Assist auth and lock hash](https://github.com/popey/halloy-snap/pull/15) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago)
-- [Fix Repo Assist scheduled PR check auth](https://github.com/popey/snapupdates/pull/8) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 month ago)
-- [Fix Repo Assist scheduled PR check auth](https://github.com/popey/mojinav/pull/11) on [popey/mojinav](https://github.com/popey/mojinav) (1 month ago)
-- [Fix Repo Assist scheduled PR check auth](https://github.com/popey/slomore/pull/12) on [popey/slomore](https://github.com/popey/slomore) (1 month ago)
-- [Fix Repo Assist scheduled PR check auth](https://github.com/popey/sbom-vm/pull/25) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 month ago)
-- [Fix MAME 0.288 build with Qt 6](https://github.com/popey/mamesnap/pull/14) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago)
-
-## Recent contributions
-
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago) — Snapcraft configuration for the halloy irc client
-- [popey/grummage](https://github.com/popey/grummage) (1 month ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/slomore](https://github.com/popey/slomore) (1 month ago) — Slow More.
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 month ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (1 month ago) — Emoji-only walking navigation app
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 month ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 months ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 months ago) — Snap package for Libation, a tool to liberate your audio books
-- [minnielove2026/zx-pokemaster](https://github.com/minnielove2026/zx-pokemaster) (2 months ago)
+- [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (2 days ago)
+- [docs: point lincubate users to Canonical Workshop](https://github.com/popey/lincubate/pull/4) on [popey/lincubate](https://github.com/popey/lincubate) (2 days ago)
+- [CI: test MAME on amd64 and arm64](https://github.com/popey/mamesnap/pull/15) on [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago)
+- [Update piqueserver to v1.4.2](https://github.com/popey/piqueserver-snap/pull/4) on [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago)
+- [fix: update Spectrum Analyser to weekly-2026-05-24](https://github.com/popey/spectrum-analyser-snap/pull/4) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [ci: run ROTA smoke test under Xvfb](https://github.com/popey/rota-snap/pull/2) on [popey/rota-snap](https://github.com/popey/rota-snap) (4 days ago)
+- [Update ROTA to 2026.03.12](https://github.com/popey/rota-snap/pull/1) on [popey/rota-snap](https://github.com/popey/rota-snap) (4 days ago)
+- [Update emoj snap to v4.2.0](https://github.com/popey/emoj-snap/pull/1) on [popey/emoj-snap](https://github.com/popey/emoj-snap) (4 days ago)
+- [Update BombSquad to 1.7.63](https://github.com/popey/bombsquad-snap/pull/4) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago)
+- [Automate stable BombSquad version updates](https://github.com/popey/bombsquad-snap/pull/3) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

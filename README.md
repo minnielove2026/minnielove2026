@@ -15,7 +15,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Update ROTA to 2026.03.12](https://github.com/popey/rota-snap/pull/1) on [popey/rota-snap](https://github.com/popey/rota-snap) (4 days ago)
 - [Update emoj snap to v4.2.0](https://github.com/popey/emoj-snap/pull/1) on [popey/emoj-snap](https://github.com/popey/emoj-snap) (4 days ago)
 - [Update BombSquad to 1.7.63](https://github.com/popey/bombsquad-snap/pull/4) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago)
-- [Automate stable BombSquad version updates](https://github.com/popey/bombsquad-snap/pull/3) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

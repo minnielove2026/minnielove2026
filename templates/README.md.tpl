@@ -9,10 +9,5 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-## Recent contributions
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
-{{- end}}
-
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

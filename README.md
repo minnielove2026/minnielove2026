@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [fix: update Spectrum Analyser to weekly-2026-08-02](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
+- [fix: update Spectrum Analyser to weekly-2026-08-02](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
 - [Update to v0.116.1](https://github.com/popey/grype-snap/pull/13) on [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago)
 - [Update to v1.50.0](https://github.com/popey/syft-snap/pull/12) on [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago)
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago)

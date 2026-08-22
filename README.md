@@ -14,7 +14,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 weeks ago)
 - [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (3 weeks ago)
 - [docs: point lincubate users to Canonical Workshop](https://github.com/popey/lincubate/pull/4) on [popey/lincubate](https://github.com/popey/lincubate) (3 weeks ago)
-- [CI: test MAME on amd64 and arm64](https://github.com/popey/mamesnap/pull/15) on [popey/mamesnap](https://github.com/popey/mamesnap) (3 weeks ago)
+- [CI: test MAME on amd64 and arm64](https://github.com/popey/mamesnap/pull/15) on [popey/mamesnap](https://github.com/popey/mamesnap) (4 weeks ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

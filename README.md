@@ -6,14 +6,14 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago)
-- [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (1 week ago)
+- [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago)
+- [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago)
 - [fix: update Spectrum Analyser to weekly-2026-08-16](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 weeks ago)
 - [Update to v0.116.1](https://github.com/popey/grype-snap/pull/13) on [popey/grype-snap](https://github.com/popey/grype-snap) (3 weeks ago)
 - [Update to v1.50.0](https://github.com/popey/syft-snap/pull/12) on [popey/syft-snap](https://github.com/popey/syft-snap) (3 weeks ago)
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (3 weeks ago)
-- [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 weeks ago)
-- [docs: point lincubate users to Canonical Workshop](https://github.com/popey/lincubate/pull/4) on [popey/lincubate](https://github.com/popey/lincubate) (4 weeks ago)
+- [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 month ago)
+- [docs: point lincubate users to Canonical Workshop](https://github.com/popey/lincubate/pull/4) on [popey/lincubate](https://github.com/popey/lincubate) (1 month ago)
 - [CI: test MAME on amd64 and arm64](https://github.com/popey/mamesnap/pull/15) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago)
 
 ---

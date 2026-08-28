@@ -6,6 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
+- [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today)
 - [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago)
 - [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago)
 - [fix: update Spectrum Analyser to weekly-2026-08-16](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 weeks ago)
@@ -14,7 +15,6 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 month ago)
 - [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 month ago)
 - [docs: point lincubate users to Canonical Workshop](https://github.com/popey/lincubate/pull/4) on [popey/lincubate](https://github.com/popey/lincubate) (1 month ago)
-- [CI: test MAME on amd64 and arm64](https://github.com/popey/mamesnap/pull/15) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 month ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*

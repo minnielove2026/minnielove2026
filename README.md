@@ -6,10 +6,10 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (4 days ago)
+- [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (5 days ago)
 - [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago)
 - [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (3 weeks ago)
-- [fix: update Spectrum Analyser to weekly-2026-08-16](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 weeks ago)
+- [fix: update Spectrum Analyser to weekly-2026-08-16](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 month ago)
 - [Update to v0.116.1](https://github.com/popey/grype-snap/pull/13) on [popey/grype-snap](https://github.com/popey/grype-snap) (1 month ago)
 - [Update to v1.50.0](https://github.com/popey/syft-snap/pull/12) on [popey/syft-snap](https://github.com/popey/syft-snap) (1 month ago)
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 month ago)

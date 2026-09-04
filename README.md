@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (6 days ago)
+- [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago)
 - [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago)
 - [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (3 weeks ago)
 - [fix: update Spectrum Analyser to weekly-2026-08-16](https://github.com/popey/spectrum-analyser-snap/pull/5) on [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 month ago)

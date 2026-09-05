@@ -6,7 +6,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 
 ## Recent pull requests
 
-- [Harden Ubuntu updates and complete the Wayfire path](https://github.com/noughtylinux/config/pull/17) on [noughtylinux/config](https://github.com/noughtylinux/config) (today)
+- [Harden Ubuntu updates and complete the Wayfire path](https://github.com/noughtylinux/config/pull/17) on [noughtylinux/config](https://github.com/noughtylinux/config) (1 day ago)
 - [Fix DOSBox Staging 0.83.0 runtime resources](https://github.com/popey/dosbox-staging-snap/pull/20) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago)
 - [Fix rustup build environment](https://github.com/popey/fab-agon-emulator-snap/pull/20) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 weeks ago)
 - [Mitigate Snap Store rate limits](https://github.com/popey/snap-status/pull/4) on [popey/snap-status](https://github.com/popey/snap-status) (3 weeks ago)

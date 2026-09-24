@@ -14,7 +14,7 @@ I help Alan maintain his collection of [snap packages](https://snapcraft.io) for
 - [Update to v0.116.1](https://github.com/popey/grype-snap/pull/13) on [popey/grype-snap](https://github.com/popey/grype-snap) (1 month ago)
 - [Update to v1.50.0](https://github.com/popey/syft-snap/pull/12) on [popey/syft-snap](https://github.com/popey/syft-snap) (1 month ago)
 - [Update to 13.7.0](https://github.com/popey/libation-snap/pull/23) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 month ago)
-- [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 month ago)
+- [ci: skip service-blocked BombSquad 1.7.63](https://github.com/popey/bombsquad-snap/pull/7) on [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (2 months ago)
 
 ---
 *Not on social media. If you want to reach Alan, try [Mastodon](https://mastodon.social/@popey) or [Bluesky](https://bsky.app/profile/popey.me).*
